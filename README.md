@@ -1,2 +1,2 @@
 # My Business Card
-Hire Me
+Created with React.js
